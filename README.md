@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh Kumar Gupta 👋
 
-[GitHub](https://github.com/niteshg0) • [LinkedIn](https://linkedin.com/in/niteshg0) • [Email](mailto:nit947396@gmail.com)
+[GitHub](https://github.com/niteshg0) • [LinkedIn](https://linkedin.com/in/niteshg0) • [Email](mailto:nit947396@gmail.com) • [Portfolio](https://niteshg0.vercel.app/)
 
 ---
 
@@ -32,12 +32,13 @@ I'm passionate about crafting responsive and interactive products—blending the
 ### Alumni Association  
 Boosted engagement with a seamless alumni platform featuring registration, secure payments, and real-time mentorship.  
 **Stack:** React, Redux, Express, MongoDB, Razorpay, Tailwind CSS  
-[Project repository](https://github.com/niteshg0/alumni) (if public)
+[Project Link](https://alumni-1gbt.onrender.com/)
 
 ### Mystery Message  
 A privacy-focused message/feedback platform with strong authentication and spam prevention.  
 **Stack:** Next.js, TypeScript, MongoDB, Resend  
-[Project repository](https://github.com/niteshg0/mystery) (if public)
+[Project repository](https://github.com/niteshg0/mystery)
+[Project Link](https://mystery-message-red.vercel.app/)
 
 ---
 
@@ -48,6 +49,3 @@ A privacy-focused message/feedback platform with strong authentication and spam 
 
 ---
 
-## 📫 Get in Touch
-
-- Email: [
